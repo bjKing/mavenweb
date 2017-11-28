@@ -1,0 +1,6 @@
+/target/
+*.class
+/hadoop_workspace/
+/.settings/
+/.project
+/.classpath
